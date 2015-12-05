@@ -1,0 +1,6 @@
+*.xml
+*.h5
+.ipynb_checkpoints
+*.ppm
+*.png
+*.out
